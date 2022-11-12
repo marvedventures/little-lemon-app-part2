@@ -42,6 +42,7 @@ Users should be able to:
 
 ### Built with
 - [React Native](https://reactnative.dev/docs/environment-setup) - React Native using Expo Go
+- [FlatList](https://reactnative.dev/docs/flatlist) - For lazy loading menu items
 - [StyleSheet](https://reactnative.dev/docs/stylesheet) - For styles
 
 ### What I learned
