@@ -91,8 +91,8 @@ const menuStyles = StyleSheet.create({
 
 ### Useful resources
 
-- [React Native Docs](https://reactnative.dev/docs/stylesheet) - This helped me for all the neccessary React Native styles. I really liked their documentation and will use it going forward.
-
+- [React Native Docs (StyleSheet) ](https://reactnative.dev/docs/stylesheet) - This helped me for all the neccessary React Native styles. I really liked their documentation and will use it going forward.  
+- [React Native Docs (FlatList) ](https://reactnative.dev/docs/flatlist) - This helped me for lazy loading the Menu Lists. 
 
 ## Author
 
