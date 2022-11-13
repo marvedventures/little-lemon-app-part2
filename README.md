@@ -15,18 +15,6 @@ This is a solution to the React Native Exercise by Meta.
 
 ## Overview
 
-### The challenge
-
-Users should be able to:  
-
-- Create a React Native App using Expo
-- Use View, Text, and FlatList Components
-- Create a Header Component
-- Create a Footer Component  
-- Create a component to display menu items and use FlatList
-- Update Styles of Components to match Scenario
-- Extract All Styles to StyleSheet API 
-- Render Components to the App Component
 
 ### Screenshot
 
@@ -47,7 +35,14 @@ Users should be able to:
 
 ### What I learned
 
-Creating React Native components, Views, Text and FlatList Components.  Using StyleSheet API to style a React Native App.
+- Create a React Native App using Expo
+- Use View, Text, and FlatList Components
+- Create a Header Component
+- Create a Footer Component  
+- Create a component to display menu items and use FlatList
+- Update Styles of Components to match Scenario
+- Extract All Styles to StyleSheet API 
+- Render Components to the App Component
 
 Here is a code snippet: 
 
